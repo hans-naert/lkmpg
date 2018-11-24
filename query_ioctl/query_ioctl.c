@@ -6,7 +6,8 @@
 #include <linux/device.h>
 #include <linux/errno.h>
 #include <asm/uaccess.h>
- 
+#include <linux/uaccess.h> 
+
 #include "query_ioctl.h"
  
 #define FIRST_MINOR 0
