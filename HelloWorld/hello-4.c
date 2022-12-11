@@ -33,6 +33,6 @@ MODULE_DESCRIPTION(DRIVER_DESC); /* What does this module do */
 * be used in the future to help automatic configuration of modules, but is
 * currently unused other than for documentation purposes.
 */
-MODULE_SUPPORTED_DEVICE("testdevice");
+//MODULE_SUPPORTED_DEVICE("testdevice");
 
 

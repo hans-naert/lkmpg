@@ -16,3 +16,4 @@ printk(KERN_INFO "Goodbye, world 3\n");
 }
 module_init(hello_3_init);
 module_exit(hello_3_exit);
+MODULE_LICENSE("GPL");
